@@ -13,11 +13,7 @@ A robust, production-ready RESTful API for booking systems. Designed with scalab
 
 ## Getting Started
 
-### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18+ recommended)
-- [npm](https://npmjs.com/) or [yarn](https://yarnpkg.com/)
-- [MongoDB](https://www.mongodb.com/) or your chosen database
 
 ### Installation
 
