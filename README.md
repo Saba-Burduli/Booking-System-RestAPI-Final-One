@@ -51,14 +51,7 @@ dotnet test
 
 Interactive API docs are available at `/api-docs` when the server is running.
 
-## Project Structure
-
-
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
