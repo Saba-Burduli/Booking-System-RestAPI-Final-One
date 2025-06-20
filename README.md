@@ -20,7 +20,7 @@ A robust, production-ready RESTful API for booking systems. Designed with scalab
 ```bash
 git clone https://github.com/Saba-Burduli/Booking-System-RestAPI-Final-One.git
 cd Booking-System-RestAPI-Final-One
-npm install
+dotnet install
 ```
 
 ### Environment Variables
@@ -36,7 +36,7 @@ JWT_SECRET=your_jwt_secret
 ### Running the App
 
 ```bash
-npm start
+dotnet start
 # or for development:
 npm run dev
 ```
