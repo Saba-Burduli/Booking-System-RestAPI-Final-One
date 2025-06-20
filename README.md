@@ -29,7 +29,7 @@ Create a `.env` file in the root:
 
 ```
 PORT=3000
-DATABASE_URL=your_mongodb_url
+DATABASE_URL=your_npsql_url
 JWT_SECRET=your_jwt_secret
 ```
 
