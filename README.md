@@ -38,7 +38,7 @@ JWT_SECRET=your_jwt_secret
 ```bash
 dotnet start
 # or for development:
-npm run dev
+dotnet run dev
 ```
 
 ### Running Tests
