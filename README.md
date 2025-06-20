@@ -53,25 +53,7 @@ Interactive API docs are available at `/api-docs` when the server is running.
 
 ## Project Structure
 
-```
-.
-├── src/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── utils/
-│   └── app.js
-├── tests/
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── workflows/
-├── .env.example
-├── .gitignore
-├── LICENSE
-├── package.json
-└── README.md
-```
+
 
 ## Contributing
 
