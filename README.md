@@ -44,7 +44,7 @@ dotnet run dev
 ### Running Tests
 
 ```bash
-npm test
+dotnet test
 ```
 
 ## API Documentation
