@@ -14,8 +14,6 @@ A robust, production-ready RESTful API for booking systems. Designed with scalab
 
 ## Getting Started
 
-
-
 ### Installation
 
 ```bash
